@@ -1,3 +1,5 @@
+![Maio Labs — Build an intelligent business](https://raw.githubusercontent.com/Maio-Labs/.github/main/images/Cover_X_Maiolabs.png)
+
 ## Maio Labs
 
 We help companies design, build, and govern AI systems they **own**, not rent from platforms that extract their value.
