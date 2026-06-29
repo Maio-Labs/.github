@@ -1,12 +1,9 @@
-## Hi there 👋
+## Maio Labs
 
-<!--
+We help companies design, build, and govern AI systems they **own**, not rent from platforms that extract their value.
 
-**Here are some ideas to get you started:**
+Visit [maiolabs.ai](https://maiolabs.ai) to learn more!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+----
+
+For partnership, training, or implementation enquiries, reach us at [hello@maiolabs.ai](mailto:hello@maiolabs.ai).
